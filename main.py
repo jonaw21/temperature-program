@@ -29,7 +29,7 @@ input.on_button_pressed(Button.B, on_button_pressed_b)
 
 
 
-#Initialize the lowest and highest temperature to the current temperature.
+# Initialize the lowest and highest temperature to the current temperature.
 lowest_temp = 0
 highest_temp = 0
 current_temp_F = 0

@@ -30,7 +30,7 @@ input.onButtonPressed(Button.B, function on_button_pressed_b() {
     //  Display the lowest temperature.
     basic.showNumber(lowest_temp)
 })
-// Initialize the lowest and highest temperature to the current temperature.
+//  Initialize the lowest and highest temperature to the current temperature.
 let lowest_temp = 0
 let highest_temp = 0
 let current_temp_F = 0
