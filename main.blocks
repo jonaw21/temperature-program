@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="~g)NbpV$AKIP};3jrM$b">highest_temp</variable><variable id="Kq#q8qH#^uRk@N(F=3[%">lowest_temp</variable></variables><comment id="JBP`0=p_u5]rn9/}(DH[" minimized="true" data="0" x="0" y="0" h="120" w="480">Initialize the lowest and highest temperatures with current temperature.</comment></xml>
